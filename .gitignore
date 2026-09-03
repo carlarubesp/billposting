@@ -114,7 +114,10 @@ fabric.properties
 # https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij
 .idea/**/azureSettings.xml
 
-### Maven ###
+# Maven
 target/
+
+# Services
+services/
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij
